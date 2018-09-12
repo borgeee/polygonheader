@@ -1,2 +1,2 @@
 # Polygon Header
-Poloygon header Sample
+Simple Polygon header sample with CSS, HTML
